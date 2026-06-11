@@ -19,6 +19,10 @@ A significant number of users exited after visiting the homepage.
 ### From the purchase journey 
 it is seen that only  20% people go the product page from home page .
 
+### Demographic details
+Most revenue is generated from United States and Canada .
+But the most number of active users are from India and United States and engagement time is highest in Canada and United States depicting high conversion rate.
+
 ## Insights
 1. Product pages drive engagement.
 2. Homepage has the highest exit count.
